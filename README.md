@@ -23,8 +23,12 @@ Track booking payments and payment history.
 Submit reviews for hostels and contact support for issues.
 
 **OOP Principles Used**
+
 Abstraction: Modular classes for users, hostels, bookings, and payments.
+
 Encapsulation: Private attributes with public getters and setters.
+
 Polymorphism: Different types of users (Normal User and Hostel Owner) implementing specific behaviors.
+
 Aggregation: Hostels containing lists of rooms.
 
