@@ -4,6 +4,7 @@ It allows users to manage hostels, rooms, bookings, payments, and reviews in an 
 This system implements Object-Oriented Programming (OOP) principles.
 
 Key Features
+
 **User Management:**
 Register and log in as a Normal User or Hostel Owner.
 View and edit account details.
